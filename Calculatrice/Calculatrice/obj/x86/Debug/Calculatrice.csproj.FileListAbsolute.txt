@@ -1,0 +1,16 @@
+P:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+P:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+P:\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.Form1.resources
+P:\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.Properties.Resources.resources
+P:\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.csproj.GenerateResource.Cache
+P:\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.exe
+P:\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.pdb
+P:\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.exe
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.Form1.resources
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.csproj.GenerateResource.Cache
+C:\Users\Keven\Desktop\Calculatrice\Calculatrice\obj\x86\Debug\Calculatrice.pdb
